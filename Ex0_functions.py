@@ -20,7 +20,7 @@ print("-------------------------------------------\n"
 
 # Let's create a function called greet() that prints "Hello, World!"
 # 
-# Steps:
+# TODO:
 # 1. Use 'def' to define the function
 # 2. Give it the name 'greet'
 # 3. Add empty parentheses ()
